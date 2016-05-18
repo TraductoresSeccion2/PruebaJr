@@ -1,2 +1,3 @@
-# PruebaJr
-Jose Requena 22.883.559
+# traductores
+
+ No mbre:Jose Requena <br> Cedula: 22.883.559
